@@ -26,7 +26,7 @@ AI Engineer at [TAP Innovations](https://karthnode.com) (US HR tech, remote) —
 
 **AI & ML** · Python · PyTorch · LangChain · RAG · LLMs · Agentic Workflows
 
-**Embedded & Hardware** · Raspberry Pi 5 · Pixhawk · ESP32 · Arduino · I2C / UART / SPI · Soldering
+**Embedded & Hardware** · Raspberry Pi 5 · Pixhawk · ESP32 · Arduino · I2C / UART / SPI 
 
 **Languages** · Python · C++ · C · TypeScript
 
